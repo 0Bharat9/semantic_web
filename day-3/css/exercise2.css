@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Playwrite NZ";
+  src: url("fonts/static/PlaywriteNZ-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Playwrite NZ";
+  src: url("fonts/PlaywriteNZ-VariableFont_wgh.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
 * {
   margin: 0;
   padding: 0;
